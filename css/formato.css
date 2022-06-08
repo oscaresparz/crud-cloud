@@ -1,0 +1,27 @@
+legend,label {
+	font-weight: bold;
+}
+
+p {
+	text-align: right;
+	width: 300px;
+}
+
+.btn-upgrade,
+.btn-delete{
+	display: inline-block;
+}
+
+.btn-upgrade button{
+	background-color: green;
+}
+.btn-delete button{
+	background-color: red;
+}
+
+.btn-upgrade i,
+.btn-delete i{
+	color: aliceblue;
+}
+
+
